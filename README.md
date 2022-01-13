@@ -13,14 +13,18 @@ NRC: 10133
 **1.OBJETIVOS**
 
 ***Objetivo General***
+
 Demostrar que un circuito activo provisto de dos terminales a y b se puederepresentar mediante otro circuito equivalente, mucho mas simple que lo sustituyapor una fuente de tensión Vab en serie con una impedancia Zab.
 
 ***Objetivo Especificos***
+
 Hallar la impedancia equivalente del circuito.
  
 Hallar la corriente del circuito equivalente.
 
 **2.MARCO TEORICO**
+
+   ![image](https://user-images.githubusercontent.com/84757114/149350250-e567ad0e-90e9-4612-85ad-ba8defaf2b85.png)
 
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
