@@ -25,6 +25,8 @@ NRC: 10133
 
 **2.MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/94098157/149372776-f3897e7a-77c8-43ca-92af-aa8c60a54170.png)
+
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/94098157/149267370-3b8cdaf7-4598-4605-8de1-b2c4551c7b79.png)
@@ -91,13 +93,19 @@ Finalmente se realiza el circuito equivalente de Thevenin
 
 ![image](https://user-images.githubusercontent.com/94098157/149276820-6ad33190-cae0-4def-8759-9462e2a0a219.png)
 
+Aquí se calcula el voltaje y la corriente del circuito equivalente al original en la resistencia de carga o R5 
+
 ![image](https://user-images.githubusercontent.com/94098157/149332902-d671aa80-b9a1-484d-a655-c14dfd0ade12.png)
+
+Finalmente se muestra los datos puestos en las respectivas tablas 
 
 ![image](https://user-images.githubusercontent.com/94098157/149340807-410898a5-19c5-4799-8c18-c9fc9d83a23d.png)
 
 ![image](https://user-images.githubusercontent.com/94098157/149340829-a35dcca5-4e4c-4ec7-9f48-7b9fb19ddb3a.png)
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+Evidentemente se muestra que tanto el circuito Equivalente de Thevenin  y el circuito original lanzan valores muy similares en los voltajes y corrientes respecto a la resistencia de carga R5. Por lo que el margen de error tiende a ser cero. 
 
 ![image](https://user-images.githubusercontent.com/94098157/149342137-574459d1-5ca8-4523-9b67-7f4f6129e2cb.png)
 
@@ -106,9 +114,9 @@ Finalmente se realiza el circuito equivalente de Thevenin
 https://www.youtube.com/watch?v=F_JLDdxXVqc
 
 **7. CONCLUSIONES**
-- Tener los conceptos claros en lo que ue se refiere a corriente y al definición del teorema de superposicion  nos ayudó a medir de forma precisa la correinte y voltaje en el circuito.  
-- Se pudo observar que el teorema de superposicion es un metodo muy eficiente para determinar las correintes y voltajes especificos de un circuto cerrad. 
-- Los valores analiticos, experimentales, simulados muestran una gran semejanza entre ellos, lo que signfica que la corriente y voltaje obtenidos son en cierta manera precisos.
+- Tener los conceptos claros en lo que ue se refiere a corriente y al definición del teorema de thevenin  nos ayudó a medir de forma precisa la correinte, voltaje y la resistencia equivalente del circuito original.  
+- Se pudo observar que el teorema de thevenin es un metodo muy eficiente para realizar circuitos equivalentes. 
+- Los valores analiticos, experimentales y simulados muestran una gran semejanza entre ellos, lo que signfica que la corriente y voltaje obtenidos del circuito cerrado y equivalente son en cierta manera precisos.
  
 **8. BIBLIOGRAFÍA**
 
