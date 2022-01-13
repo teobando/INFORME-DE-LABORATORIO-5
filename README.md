@@ -14,21 +14,16 @@ NRC: 10133
 
 ***Objetivo General***
 
-Mostrar teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos
-
-Demostrar que un circuito activo provisto de dos terminales a y b se puederepresentar mediante otro circuito equivalente, mucho mas simple que lo sustituyapor una fuente de tensión Vab en serie con una impedancia Zab.
+- Analizar el voltaje y la corriente solicitados en los diferentes componentes de un circuito cerrado, mediante una práctica de laboratorio para comprender cómo funciona el teorema de Thevenin y un circuito Equivalente. 
 
 ***Objetivo Especificos***
 
-Aplicar el teorema de Thevenin para simplificar un circuito para su análisis.
-
-Hallar las corrientes y voltajes equivalentes del circuito.
- 
-Hallar la corriente del circuito equivalente.
+- Conocer los conceptos del teorema de Thevenin para mantener una idea calra de lo que tarta. 
+- Realizar un circuito cerrado en un protoboard siguiendo la estructura dada por el docente, para analizar la corriente y voltaje de un circuito Equivalente a Thevenin.
+- Medir  con el multimetro valores de las corrientes y volatje tanto en el circuito original como en el equivalente.  
+- Comparar los valores calculados con los valores medidos para  determinar mayor validez a nuestro analisis.
 
 **2.MARCO TEORICO**
-
-   ![image](https://user-images.githubusercontent.com/84757114/149350250-e567ad0e-90e9-4612-85ad-ba8defaf2b85.png)
 
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
@@ -96,19 +91,25 @@ Finalmente se realiza el circuito equivalente de Thevenin
 
 ![image](https://user-images.githubusercontent.com/94098157/149276820-6ad33190-cae0-4def-8759-9462e2a0a219.png)
 
-![image](https://user-images.githubusercontent.com/94098157/149277338-cc30fa4c-7edf-449e-b458-61ad167be8b8.png)
+![image](https://user-images.githubusercontent.com/94098157/149332902-d671aa80-b9a1-484d-a655-c14dfd0ade12.png)
 
+![image](https://user-images.githubusercontent.com/94098157/149340807-410898a5-19c5-4799-8c18-c9fc9d83a23d.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149340829-a35dcca5-4e4c-4ec7-9f48-7b9fb19ddb3a.png)
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+![image](https://user-images.githubusercontent.com/94098157/149342137-574459d1-5ca8-4523-9b67-7f4f6129e2cb.png)
 
 **6. VIDEO:**
 
 https://www.youtube.com/watch?v=F_JLDdxXVqc
 
 **7. CONCLUSIONES**
-
-Esta práctica nos permitió visualizar tanto física como experimental y matemáticamente como se emplea el Teorema de Thevenin, el cual consiste en que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión.
-
- En cuanto a los resultados obtenidos podemos llegar a la conclusión de que se obtuvieron resultados satisfactorios, ya que el porcentaje de error que se obtuvo fue muy bajo de 0.079 porciento.
+- Tener los conceptos claros en lo que ue se refiere a corriente y al definición del teorema de superposicion  nos ayudó a medir de forma precisa la correinte y voltaje en el circuito.  
+- Se pudo observar que el teorema de superposicion es un metodo muy eficiente para determinar las correintes y voltajes especificos de un circuto cerrad. 
+- Los valores analiticos, experimentales, simulados muestran una gran semejanza entre ellos, lo que signfica que la corriente y voltaje obtenidos son en cierta manera precisos.
  
 **8. BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION
