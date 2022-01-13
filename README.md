@@ -14,11 +14,15 @@ NRC: 10133
 
 ***Objetivo General***
 
+Mostrar teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos
+
 Demostrar que un circuito activo provisto de dos terminales a y b se puederepresentar mediante otro circuito equivalente, mucho mas simple que lo sustituyapor una fuente de tensión Vab en serie con una impedancia Zab.
 
 ***Objetivo Especificos***
 
-Hallar la impedancia equivalente del circuito.
+Aplicar el teorema de Thevenin para simplificar un circuito para su análisis.
+
+Hallar las corrientes y voltajes equivalentes del circuito.
  
 Hallar la corriente del circuito equivalente.
 
