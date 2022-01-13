@@ -107,5 +107,8 @@ https://www.youtube.com/watch?v=F_JLDdxXVqc
 
 **7. CONCLUSIONES**
 
+Esta práctica nos permitió visualizar tanto física como experimental y matemáticamente como se emplea el Teorema de Thevenin, el cual consiste en que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión.
+
+ En cuanto a los resultados obtenidos podemos llegar a la conclusión de que se obtuvieron resultados satisfactorios, ya que el porcentaje de error que se obtuvo fue muy bajo de 0.079 porciento.
  
 **8. BIBLIOGRAFÍA**
